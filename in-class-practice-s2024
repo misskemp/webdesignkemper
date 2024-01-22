@@ -10,6 +10,7 @@
   <!-- Use the header area for the website name or logo -->
   <header>
     <h1>Brylee Kemper Photography</h1>
+    <img src="pictures/james-barker-v3-zcCWMjgM-unsplash.jpg" alt="Brown Lab Lick" height="220" width="297">
   </header>
 
   <!-- Use the nav area to add hyperlinks to other pages within the website -->
